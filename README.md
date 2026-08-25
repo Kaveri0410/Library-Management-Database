@@ -50,6 +50,3 @@ Library-Management-Database/
     ├── borrowings.png
     └── join_result.png
 
-## Author
-
-Kaveri
