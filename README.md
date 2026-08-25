@@ -38,15 +38,3 @@ This project manages library-related information such as students, books, borrow
 ### JOIN Query Result
 ![JOIN Result](screenshots/join_result.png)
 
-## Project Structure
-
-Library-Management-Database/
-│
-├── library_management.sql
-├── README.md
-└── screenshots/
-    ├── students.png
-    ├── books.png
-    ├── borrowings.png
-    └── join_result.png
-
